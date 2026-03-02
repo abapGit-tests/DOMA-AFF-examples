@@ -1,0 +1,26 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "Numeric domain with intervals",
+    "originalLanguage": "E"
+  },
+  "format": {
+    "dataType": "NUMC",
+    "length": 4
+  },
+  "outputCharacteristics": {
+    "length": 4
+  },
+  "fixedValueIntervals": [
+    {
+      "lowLimit": "1000",
+      "highLimit": "1999",
+      "description": "Range 1000-1999"
+    },
+    {
+      "lowLimit": "2000",
+      "highLimit": "2999",
+      "description": "Range 2000-2999"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "Domain with fixed values",
+    "originalLanguage": "E"
+  },
+  "format": {
+    "dataType": "CHAR",
+    "length": 3
+  },
+  "outputCharacteristics": {
+    "length": 3
+  },
+  "fixedValues": [
+    {
+      "fixedValue": "RED",
+      "description": "Red color"
+    },
+    {
+      "fixedValue": "GRN",
+      "description": "Green color"
+    },
+    {
+      "fixedValue": "BLU",
+      "description": "Blue color"
+    }
+  ]
+}

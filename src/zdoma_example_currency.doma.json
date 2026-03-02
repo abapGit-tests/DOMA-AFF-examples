@@ -1,0 +1,16 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "Currency amount domain",
+    "originalLanguage": "E"
+  },
+  "format": {
+    "dataType": "CURR",
+    "length": 15,
+    "decimals": 2
+  },
+  "outputCharacteristics": {
+    "length": 15,
+    "negativeValues": true
+  }
+}
