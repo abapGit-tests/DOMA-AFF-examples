@@ -1,0 +1,19 @@
+{
+  "name": "doma-aff-examples",
+  "version": "1.0.0",
+  "description": "Test repository with DOMA (Domain) examples in AFF JSON format for testing abapGit DOMA serializer",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abapGit-tests/DOMA-AFF-examples.git"
+  },
+  "keywords": [
+    "abapGit",
+    "AFF",
+    "DOMA",
+    "domain",
+    "test",
+    "examples"
+  ],
+  "author": "abapGit",
+  "license": "MIT"
+}
