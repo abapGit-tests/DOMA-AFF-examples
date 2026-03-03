@@ -2,7 +2,7 @@
   "formatVersion": "1",
   "header": {
     "description": "Domain with conversion exit",
-    "originalLanguage": "E"
+    "originalLanguage": "en"
   },
   "format": {
     "dataType": "CHAR",

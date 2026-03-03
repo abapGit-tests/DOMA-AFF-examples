@@ -2,7 +2,7 @@
   "formatVersion": "1",
   "header": {
     "description": "Domain with fixed values",
-    "originalLanguage": "E"
+    "originalLanguage": "en"
   },
   "format": {
     "dataType": "CHAR",

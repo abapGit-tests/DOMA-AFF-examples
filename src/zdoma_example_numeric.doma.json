@@ -2,7 +2,7 @@
   "formatVersion": "1",
   "header": {
     "description": "Numeric domain with intervals",
-    "originalLanguage": "E"
+    "originalLanguage": "en"
   },
   "format": {
     "dataType": "NUMC",

@@ -2,7 +2,7 @@
   "formatVersion": "1",
   "header": {
     "description": "Currency amount domain",
-    "originalLanguage": "E"
+    "originalLanguage": "en"
   },
   "format": {
     "dataType": "CURR",
