@@ -1,0 +1,14 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "a",
+    "originalLanguage": "en"
+  },
+  "format": {
+    "dataType": "INT4",
+    "length": 10
+  },
+  "outputCharacteristics": {
+    "length": 11
+  }
+}
